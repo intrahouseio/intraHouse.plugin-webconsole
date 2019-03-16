@@ -1,0 +1,11 @@
+{
+  "id": "webconsole",
+  "description": "Webconsole plugin",
+  "gendevices": 0,
+  "single": 1,
+  "module": "index.js",
+  "params": [],
+  "chpattern": [],
+  "genrules": {},
+  "commands": []
+}
