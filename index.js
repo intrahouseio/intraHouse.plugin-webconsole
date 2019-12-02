@@ -1,5 +1,5 @@
 const os = require('os');
-const pty = require('node-pty');
+const pty = require('node-pty-prebuilt-multiarch');
 
 const Plugin = require('./lib/plugin');
 const shell = os.platform() === 'win32' ? 'powershell.exe' : 'bash';
